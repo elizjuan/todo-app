@@ -1,0 +1,28 @@
+{
+    "tareas":[
+        {
+            "titulo":"Tarea 1",
+            "responsable":"Elias",
+            "descripcion":"lorem impusm",
+            "priority":"low"
+        },
+        {
+            "titulo":"Tarea 2",
+            "responsable":"Gustavo",
+            "descripcion":"lorem impusm",
+            "priority":"high"
+        },
+        {
+            "titulo":"Tarea 3",
+            "responsable":"Salvador",
+            "descripcion":"lorem impusm",
+            "priority":"medium"
+        },
+        {
+            "titulo":"Tarea 4",
+            "responsable":"Salvador",
+            "descripcion":"lorem impusm",
+            "priority":"medium"
+        }
+    ]
+}
